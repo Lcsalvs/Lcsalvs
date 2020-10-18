@@ -1,17 +1,15 @@
-### Hi there 👋
+### Hello World! 👋
 
-<!--
-**Lcsalvs/Lcsalvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-alves-conceicao/)
+[<img src="https://img.shields.io/github/followers/milenacarecho?label=follow&style=social" height="22" title="Follow me" />](https://github.com/Lcsalvs) 
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lcsalves1999@gmail.com)
 
-Here are some ideas to get you started:
+About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Lcsalvs's github stats](https://github-readme-stats.vercel.app/api?username=Lcsalvs&theme=dark&show_icons=true)
+- 📚 System Analysis and Development Student at University Estácio de Sá
+- 🌱 I’m currently learning HTML, CSS and JS...
+
+
+<p align="center"> 
+ <a><img src="https://github-readme-stats.vercel.app/api?username=Lcsalvs&show_icons=true&theme=dark"/></a>
+</p> 
