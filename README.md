@@ -1,4 +1,4 @@
-### Hello World! 👋
+### Hello World! ✌️
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-alves-conceicao/)
 [<img src="https://img.shields.io/github/followers/Lcsalvs?label=follow&style=social" height="22" title="Follow me" />](https://github.com/Lcsalvs) 
