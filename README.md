@@ -11,5 +11,5 @@ About me:
 
 
 <p align="center"> 
- <a><img src="https://github-readme-stats.vercel.app/api?username=Lcsalvs&show_icons=true&theme=dark"/></a>
+ <a><img src="https://github-readme-stats.vercel.app/api?username=Lcsalvs&show_icons=true&theme=graywhite"/></a>
 </p> 
