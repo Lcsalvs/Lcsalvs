@@ -7,7 +7,7 @@
 About me:
 
 - 📚 System Analysis and Development Student at University Estácio de Sá
-- 🌱 I’m currently learning HTML, CSS and JS...
+- 🌱 I’m currently learning HTML, CSS, JS and TypeScript.
 
 
 <p align="center"> 
