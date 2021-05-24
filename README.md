@@ -1,7 +1,7 @@
 ## Hello World!
  <div>
   <a href="https://github.com/Lcsalvs">
-  <img textalign="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Lcsalvs&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img style="textalign:center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Lcsalvs&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
   <img textalign="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lcsalvs&layout=compact&langs_count=16&theme=graywhite"/>
 <div>
 <div style="display: inline_block"><br>
