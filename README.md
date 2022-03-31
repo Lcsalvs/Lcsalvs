@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Lucas!</h1>
 <h3 align="center">A passionate frontend developer from Brazil, I intend to become a full stack developer in the future.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lcsalvs&label=Profile%20views&color=0e75b6&style=flat" alt="lcsalvs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lcsalvs" alt="lcsalvs" /></a> </p>
+<h3> - 🌱 I’m currently learning **Web development, React and Node.** </h3>
 
-- 🌱 I’m currently learning **Web development, React and Node.**
+<h3> - 📫 How to reach me **lcsalves@gmail.com** </h3>
 
-- 📫 How to reach me **lcsalves@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/lcsalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lcsalves" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lcsalves/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lcsalves/" height="30" width="40" /></a>
 <a href="https://instagram.com/lcsalvs99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lcsalvs99" height="30" width="40" /></a>
 </p>
 
