@@ -2,9 +2,7 @@
 <h3 align="center">A passionate frontend developer from Brazil, I intend to become a full stack developer in the future.</h3>
 
 
-<h3> - 🌱 I’m currently learning **Web development, React and Node.** </h3>
-
-<h3> - 📫 How to reach me **lcsalves@gmail.com** </h3>
+<h3> - 🌱 I’m currently learning Web development, React and Node.</h3>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
