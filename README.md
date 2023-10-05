@@ -3,7 +3,7 @@
 
 - 🌱 I have skills on [Web development, React and Node.](https://github.com/Lcsalvs/foodexplorer-frontend)
 
-- 🐍 Currently learning Python [Formação Python - OneBitCode](https://www.onebitcode.com/)
+- 🐍 Currently learning Python
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
