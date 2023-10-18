@@ -1,7 +1,7 @@
 <h1 align="left">Hi 🤘, I'm Lucas!</h1>
 <h3 align="left">💻 Aspiring web developer and tech enthusiast, eager to learn and contribute to the world of programming.</h3>
 
-- 🌱 I have skills on [Web development, React and Node.](https://github.com/Lcsalvs/foodexplorer-frontend)
+- 🌱 I have skills on Web development, React and Node.
 
 - 🐍 Currently learning Python
 
