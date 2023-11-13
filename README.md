@@ -1,9 +1,9 @@
 <h1 align="left">Hi 🤘, I'm Lucas!</h1>
-<h3 align="left">💻 Aspiring web developer and tech enthusiast, eager to learn and contribute to the world of programming.</h3>
+<h3 align="left">💻 Em constante evolução para me tornar um especialista em Segurança Cibernética. </h3>
 
-- 🌱 I have skills on Web development, React and Node.
+- 🌱 Skills em Desenvolvimento Web, React and Node.
 
-- 🐍 Currently learning Python
+- 🐍 Atualmente estudando Python e Cybersecurity
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
