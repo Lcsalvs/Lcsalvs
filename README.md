@@ -1,24 +1,30 @@
-<h1 align="left">Hi 🤘, I'm Lucas!</h1>
 
+# 👋 Hello, I'm Lucas Alves
 
-- 🔴 Offensive Security Analyst
-- blablabla
+🔐 Cybersecurity Student | Offensive Security Enthusiast
 
+💻 Focused on Penetration Testing, Red Team and Infrastructure Security
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/lcsalves/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lcsalves/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-- JavaScript
-- Python
-- Burp Suite
-- NMAP
-- Metasploit
-- Hydra
-- SQLMap
-- Wireshark / TCPdump  
+# 🚀 About Me
+
+- 🎯 Goal: Work in Offensive Security / Penetration Testing
+- 📚 Currently studying:
+    - Linux Privilege Escalation
+    - Web Exploitation
+    - Network Security
+    - Active Directory Attacks
+- 🧪 Practice Platforms:
+    - TryHackMe
+    - Hack The Box
+- 🛠️ Main Tools:
+    - Nmap
+    - Burp Suite
+    - Metasploit
+    - Hydra
+    - SQLmap
+    - Wireshark
 
 
 
