@@ -2,9 +2,8 @@
 
 <h3 align="left">💻 Em constante evolução para me tornar um especialista em Segurança Cibernética. </h3>
 
-- 🌱 Skills em Desenvolvimento Web, React and Node.
+- 🔴 Offensive Security Analyst
 
-- 🐍 Atualmente estudando Python e Cybersecurity
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,6 +16,7 @@
 
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/K4z3sh1n1.png" alt="Your Image Badge" />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2471923" style='border:none;'></iframe>
+
 
 
