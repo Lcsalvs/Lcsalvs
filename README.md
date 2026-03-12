@@ -10,7 +10,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>
 - JavaScript
 - Python
 - Burp Suite
@@ -19,7 +18,7 @@
 - Hydra
 - SQLMap
 - Wireshark / TCPdump  
-</p> 
+
 
 
 
