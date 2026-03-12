@@ -1,7 +1,7 @@
 
 # 👋 Hello, I'm Lucas Alves
 
-🔐 Cybersecurity Student | Offensive Security Enthusiast
+🔴 Offensive Security Analyst
 
 💻 Focused on Penetration Testing, Red Team and Infrastructure Security
 
@@ -9,15 +9,18 @@
 
 # 🚀 About Me
 
-- 🎯 Goal: Work in Offensive Security / Penetration Testing
 - 📚 Currently studying:
-    - Linux Privilege Escalation
-    - Web Exploitation
-    - Network Security
-    - Active Directory Attacks
+    - CPTS Path (HTB)
+    - NPP (DESEC)
+    - Wep App Pentesting (THM)
+ 
+      
 - 🧪 Practice Platforms:
     - TryHackMe
     - Hack The Box
+    - PortSwigger
+ 
+      
 - 🛠️ Main Tools:
     - Nmap
     - Burp Suite
@@ -25,6 +28,7 @@
     - Hydra
     - SQLmap
     - Wireshark
+    - TCPdump
 
 
 
