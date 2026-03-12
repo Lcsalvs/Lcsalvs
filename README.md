@@ -17,7 +17,7 @@
 
 ## TryHackMe
 
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2471923)
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2471923" />
 
 
 
