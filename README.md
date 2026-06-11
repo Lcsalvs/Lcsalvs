@@ -22,20 +22,7 @@
  
       
 - 🛠️ Main Tools:
-    - Nmap
-    - Burp Suite
-    - Metasploit
-    - Hydra
-    - SQLmap
-    - Wireshark
-    - TCPdump
-
-
-
-
-## TryHackMe
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Lcsalvss.png" alt="Your Image Badge" />
-
+    - Nmap // Burp Suite // Metasploit // Hydra // SQLmap // Wireshark // TCPdump
+   
 
 
