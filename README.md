@@ -19,9 +19,5 @@
     - Hack The Box
     - PortSwigger
  
-      
-- 🛠️ Main Tools:
-    - Nmap // Burp Suite // Metasploit // Hydra // SQLmap // Wireshark // TCPdump
-   
 
 
