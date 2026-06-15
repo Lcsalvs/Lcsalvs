@@ -10,9 +10,8 @@
 # 🚀 About Me
 
 - 📚 Currently studying:
-    - CPTS Path (HTB)
+    - CWES Path (HTB)
     - NPP (DESEC)
-    - Wep App Pentesting (THM)
  
       
 - 🧪 Practice Platforms:
