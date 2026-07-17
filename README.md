@@ -10,7 +10,7 @@
 # 🚀 About Me
 
 - 📚 Currently studying:
-    - CWES Path (HTB)
+    - Web App Pentesting
     - NPP (DESEC)
  
       
