@@ -11,7 +11,7 @@
 
 - 📚 Currently studying:
     - Web App Pentesting
-    - NPP (DESEC)
+    - Pentest Experience (DESEC)
  
       
 - 🧪 Practice Platforms:
